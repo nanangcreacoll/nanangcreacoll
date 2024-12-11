@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nanangcreacoll&theme=dark"/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nanangcreacoll&hide=blade,vim%20script,lua,kotlin&theme=dark)
